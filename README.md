@@ -2,7 +2,8 @@
 A Major Update of WallpaperSquare.
 
 ![image](https://github.com/EverMeme1138/WallpaperCube/blob/main/Untitled3.png)
-* The part on the right side is a modified version of [Neko-behind-a-wall](https://github.com/EverMeme1138/Neko-behind-a-wall) and is not included in this skin.
+The part on the right side is a modified version of [Neko-behind-a-wall](https://github.com/EverMeme1138/Neko-behind-a-wall) and is not included in this skin.
+The picture used here: [hanekoto2424](https://x.com/hanekoto2424/status/1561275226687561729)
 
 ## What's New?
 - Much more intuitive setting
