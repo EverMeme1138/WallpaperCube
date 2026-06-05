@@ -2,8 +2,8 @@
 A Major Update of WallpaperSquare.
 
 ![image](https://github.com/EverMeme1138/WallpaperCube/blob/main/Untitled3.png)
-The part on the right side is a modified version of [Neko-behind-a-wall](https://github.com/EverMeme1138/Neko-behind-a-wall) and is not included in this skin.\
-The picture used here: [hanekoto2424](https://x.com/hanekoto2424/status/1561275226687561729)
+<sub>The above is a demonstration of the setup I am currently using. The part on the right side is a modified version of [Neko-behind-a-wall](https://github.com/EverMeme1138/Neko-behind-a-wall) and is not included in this skin.</sub>\
+<sub>The picture used here: [hanekoto2424](https://x.com/hanekoto2424/status/1561275226687561729)</sub>
 
 ## What's New?
 - Much more intuitive setting
@@ -17,14 +17,10 @@ The picture used here: [hanekoto2424](https://x.com/hanekoto2424/status/15612752
 
 `@echo off & "C:\Program Files\Rainmeter\Rainmeter.exe" !WriteKeyValue Rainmeter SkinPath "C:\Users\%USERNAME%\Documents\Rainmeter\Skins\" "%APPDATA%\Rainmeter\Rainmeter.ini" & taskkill /f /im "Rainmeter.exe" & xcopy /s /e /y /f /i "C:\Users\%USERNAME%\OneDrive\Documents\Rainmeter\Skins" "C:\Users\%USERNAME%\Documents\Rainmeter\Skins" & timeout 1 & start "" "C:\Program Files\Rainmeter\Rainmeter.exe" & exit`
 
-### Hover your mouse onto the display box to show setting tab.
+### Left click on the display box to show setting tab.
  - Drag the orange box to resize the display box.
  - Drag the blue box to move the display box.
- - Drag the picture to move.
- - Scroll on the picture to resize.
-
-![image](https://github.com/EverMeme1138/WallpaperCube/blob/main/Untitled.png)
-
+ - Drag the picture to move, scroll to resize.
  - Click the items in the setting tab to edit. All numerical values have a default value of 1 in the input box to prevent unexpeted behaviour, be sure to get rid of that "1" before you input.
  - Click "Close Setting Tab & Save" to close setting tab. All changes will be lost upon refreshing the skin if it is not clicked.
  - To prevent the setting tab popping up unexpectedly in normal use, enable "Click Through" in Rainmeter management window.
@@ -38,10 +34,10 @@ The picture used here: [hanekoto2424](https://x.com/hanekoto2424/status/15612752
 ## Credits
 [theAzack9](https://github.com/TheAzack9) for the [Drag&Drop plugin](https://forum.rainmeter.net/viewtopic.php?t=23107).\
 NighthawkSLO and RicardoTM for the [Mouse plugin](https://forum.rainmeter.net/viewtopic.php?t=26030).\
-[hanekoto2424](https://x.com/hanekoto2424/status/1570379292047187968) for the default picture.
+[Nagisssa摸鱼中](https://www.pixiv.net/artworks/122195507) for the default picture.
 
 # WARNING
 ### This skin is only published on Github and Rainmeter Discord server by EverMeme, DO NOT download if you see this from other sites, as they might modify the files in malicious ways.
 This Github Repo link: https://github.com/EverMeme1138/WallpaperCube
 
-Version 1.0
+Version 1.2
