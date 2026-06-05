@@ -31,6 +31,12 @@ A Major Update of WallpaperSquare.
 - If transparency is unspecified, it is defaulted as 255 (i.e. solidcolor)
 - e.g. 255,0,0 for solid red / 255,0,0,120 for a semi-transparent red
 
+## How do I achieve segmented display box effect like in WallpaperSquare?
+ - In the skin folder (`Documents\Rainmeter\Skins\WallpaperCube`), create new subfolders (E.g., `Documents\Rainmeter\Skins\WallpaperCube\Box1`, `Documents\Rainmeter\Skins\WallpaperCube\Box2`).
+ - Move `Box.ini` into the created subfolders.
+ - Refresh Rainmeter management window, now you can load multiple display boxes.
+ - Configure in setting such that all display boxes are displaying the same image, and have the same image size and XY offset.
+
 ## Credits
 [theAzack9](https://github.com/TheAzack9) for the [Drag&Drop plugin](https://forum.rainmeter.net/viewtopic.php?t=23107).\
 NighthawkSLO and RicardoTM for the [Mouse plugin](https://forum.rainmeter.net/viewtopic.php?t=26030).\
