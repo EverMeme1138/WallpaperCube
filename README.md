@@ -1,5 +1,5 @@
 # WallpaperCube
-A Major Update of WallpaperSquare.
+A Major Update of [WallpaperSquare](https://github.com/EverMeme1138/WallpaperSquare).
 
 ![image](https://github.com/EverMeme1138/WallpaperCube/blob/main/Untitled3.png)
 <sub>The above is a demonstration of the setup I am currently using. The part on the right side is a modified version of [Neko-behind-a-wall](https://github.com/EverMeme1138/Neko-behind-a-wall) and is not included in this skin.</sub>\
